@@ -1,3 +1,4 @@
 Boy = Jotaro
 The old man: Dio
 Tree: Joy
+girl: How
